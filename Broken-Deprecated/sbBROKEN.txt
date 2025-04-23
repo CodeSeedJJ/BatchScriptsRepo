@@ -1,0 +1,9 @@
+@echo off
+:A
+echo enter password to activate program.
+set/p "pass=>" 
+if NOT %pass%== 123456 goto :FAIL
+:FAIL
+echo invalid password
+goto :end
+:end
