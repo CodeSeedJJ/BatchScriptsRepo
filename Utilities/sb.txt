@@ -1,3 +1,3 @@
 @echo off
-xcopy "C:\Users\jayzo\Desktop\yyydet" "C:\Users\jayzo\Desktop\zzzterm" /c /y
+xcopy "C:\Users\****\Desktop\yyydet" "C:\Users\****\Desktop\zzzterm" /c /y
 pause
